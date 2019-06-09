@@ -1,7 +1,7 @@
 # Project Polistack ML
 
 
-[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-Web.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-Web.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-Web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-Web.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-ML.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-ML.git) [![Build Status](https://travis-ci.org/ndoteddy/Project-Polistack-ML.svg?branch=master)](https://travis-ci.org/ndoteddy/Project-Polistack-ML) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-ML.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
 ## Background
 Shall we learn machine learning ? Yes
