@@ -4,14 +4,11 @@
 [![HitCount](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-ML.git.svg)](http://hits.dwyl.io/ndoteddy/https://github.com/ndoteddy/Project-Polistack-ML.git)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ndoteddy/Project-Polistack-Web/issues) [![devDependency Status](https://david-dm.org/ndoteddy/Project-Polistack-ML.svg)](https://david-dm.org/ndoteddy/Project-Polistack-Web) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
 ## Background
-Shall we learn machine learning ? Yes
-But before that maybe we can play arround with some proffesional in this field
-I use one simple dataset from twitter (courtesy:data.world)
-https://data.world/crowdflower/2015-new-years-resolutions
+Shall we learn machine learning ? Yes But before that maybe we can play arround with some proffesional in this field
+I use one simple dataset from twitter (courtesy:data.world) https://data.world/crowdflower/2015-new-years-resolutions
 
-Current objective : **To design, analyze, and build machine learning model with python sci-kit or tensor**
--Wanna discuss or collaborate together kindly Drop a message 
--I still newbie in this field - dont hesitate to comment or teach me how to do the right thing  :D
+Current objective : **To design, analyze, and build machine learning model with python sci-kit or tensor**. 
+Wanna discuss or collaborate together ? Kindly Drop a message. Dont hesitate to comment,discuss or share how to do the right thing  :D
 
 author : nando teddy
 
